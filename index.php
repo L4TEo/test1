@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="stylesheet" type="text/css" href="css/css.css">
 	<title>123</title>
 </head>
 <body>
-	Su4ka 2222222
 </body>
 </html>>
